@@ -73,4 +73,4 @@ jobs:
           file_pattern: "M3U8/TV.m3u8"
           commit_author: "GitHub Actions Bot <actions@github.com>"
           commit_user_name: "GitHub Actions Bot"
-          commit_user_email: "actions@github
+          commit_user_email: "actions@github.com"
